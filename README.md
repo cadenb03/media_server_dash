@@ -11,3 +11,13 @@ Pings services to check if active
 Current downloads from Deluge
 
 Currently seeding from Deluge
+
+## Downloading and Usage
+Requires the requests module and a font with Nerd Fonts installed
+```
+pip install requests
+```
+### To Run
+```
+python main.py
+```
